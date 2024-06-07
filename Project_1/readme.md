@@ -17,8 +17,8 @@ The major insights from the analysis include:
 - Peak sales day: Tuesday.
 
 ## Links
-- [Final Dashboard]()
-- [Project Presentation]()
+- [Final Dashboard](Sales_Report_Meriskill.pbix)
+- [Project Presentation](PPT_Meriskill_P1.pdf)
 
 ## Acknowledgments
 I would like to thank @Meriskill for providing the dataset and the opportunity to work on this project. I am open to any feedback or questions regarding my analysis.
